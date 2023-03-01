@@ -7,7 +7,7 @@ CREATE TABLE card_71 (
     remoto_img varchar(255)
 )
 
-INSERT　INTO card_71 (id,title,descrip,category,img, remoto_img)
+INSERT INTO card_71 (id,title,descrip,category,img, remoto_img)
 
 VALUES
 (1,'Seven Reasons Why Coffee Is Awesome','Lorem ipsum dolor sit amet consectetur adipisicing elit.'
